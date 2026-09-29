@@ -382,13 +382,11 @@ The demonstration video introduces the CHEERS platform and shows the main featur
 
 ### CHEERS
 
-| Member     | Role                    |
-| ---------- | ----------------------- |
-| **[Name]** | Project Leader / [Role] |
-| **[Name]** | [Role]                  |
-| **[Name]** | [Role]                  |
-| **[Name]** | [Role]                  |
-| **[Name]** | [Role]                  |
+| Member | Student ID | Role | Responsibilities |
+| --- | :---: | --- | --- |
+| **Byambasuren Tuvshinjargal** | 202355673 | Project Leader / ML & Pipeline | PrimeKG data preprocessing, R-GCN training pipeline design ($G_0$–$G_3$), multi-seed evaluation, FastAPI backend runtime & lightweight NumPy inference engine integration. |
+| **Galbadrakh Buyandelger** | 202255630 | ML Research & KGE Evaluation | Disease-drug context extraction, baseline Knowledge Graph Embedding (KGE) benchmarking (TransE/ComplEx/RotatE), experimental results verification, and final research documentation. |
+| **Bavuujav Delgerbayar** | 202355622 | Frontend & Graph Visualization | Single-relation ablation experiments, DDI cold-start analysis, React/Vite web application UI/UX, Interactive Subgraph Explorer visualization, and external metadata APIs (NCBI/openFDA) integration. |
 
 ### Responsibilities
 
